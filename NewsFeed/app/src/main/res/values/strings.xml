@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News Feed</string>
+    <string name="list_title_place_holder">This Is The List Item Title Place Holder</string>
+    <string name="list_contriputer_place_holder">Mohamed Fadel</string>
+    <string name="list_date_place_holder">2018-02-02</string>
+    <string name="list_type_place_holder">Technology</string>
+
+    <string name="no_data">No New Events To Display Now</string>
+    <string name="no_connection">Check your internet and try again</string>
+</resources>
